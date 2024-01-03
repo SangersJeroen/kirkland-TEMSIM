@@ -35,7 +35,7 @@ These programs use the FFTW subroutine package from www.fftw.org
 which must be installed separately to compile.  
 
 computem uses wxWidgets which must be separately downloaded from  
-wxWidgets.org and compiled.  
+www.wxWidgets.org and compiled.  
 
 The Windows binary executable files use libfftw3f-3.dll which  
 must be in the PATH.  
